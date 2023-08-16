@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/DivTextUtils/static/css/main.31d6cfe0.css",
+    "main.js": "/DivTextUtils/static/js/main.593d47a2.js",
+    "static/js/787.bc7d429a.chunk.js": "/DivTextUtils/static/js/787.bc7d429a.chunk.js",
+    "index.html": "/DivTextUtils/index.html",
+    "main.593d47a2.js.map": "/DivTextUtils/static/js/main.593d47a2.js.map",
+    "787.bc7d429a.chunk.js.map": "/DivTextUtils/static/js/787.bc7d429a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.31d6cfe0.css",
+    "static/js/main.593d47a2.js"
+  ]
+}
